@@ -6,7 +6,7 @@
 
    Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`.
    ## Click no Link abaixo.
-   [https://luanreis92.github.io/portifolio/](https://luanreis92.github.io/portifolio/)(#)
+   [https://luanreis92.github.io/portifolio/](https://luanreis92.github.io/portifolio/)
 
 ## Contato
 - [LinkedIn: luanreis92](https://www.linkedin.com/in/luanreis92/#)
