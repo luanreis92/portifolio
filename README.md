@@ -4,7 +4,7 @@
 ### Esse portifólio trás as minhas quallificações e experiências aquiridas.
 #### Em construção...
 
-   Tecnologias: `HTML`, `CSS`, `JavaScript`, `Bootstrap`.
+   Tecnologias: <span style="color: #E34F26;">`HTML`</span>, <span style="color: #1572B6;">`CSS`</span>, <span style="color: #F7DF1E;">`JavaScript`</span>, <span style="color: #F7DF1E;">`BootStrap`</span>.
    ## Click no Link abaixo.
    [https://luanreis92.github.io/portifolio/](https://luanreis92.github.io/portifolio/)
 
